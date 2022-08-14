@@ -35,7 +35,7 @@ App.prototype.start = function()
     game.IS_DEV = this.IS_DEV;
     game.VERSION = this.VERSION;
 
-    game.url = '';
+    game.URL = '';
 
     game.CONFIG = {
         width: config.width,
